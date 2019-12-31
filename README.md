@@ -4,9 +4,9 @@ A repo for future reference to the concepts I learn while following Ionic tutori
 Ionic is an HTML5 mobile app development framework targeted at building hybrid mobile apps.
 
 Contents of the repository:
-1.<a href="Budget-Planner(without-angular)"> “Budget-Planner(without-angular)”</a> - A project to understand code.
-2.<a href="MyIonicProject">MyIonicProject</a>- A dummy project whose content can be used for using toggle menu.
-3.<a href="ionic-angular">Ionic Angular</a> - An Angular+Ionic playground project.
+1.<a href="Budget-Planner(without-angular)"> “Budget-Planner(without-angular)”</a> - A project to understand code.<br>
+2.<a href="MyIonicProject">MyIonicProject</a>- A dummy project whose content can be used for using toggle menu.<br>
+3.<a href="ionic-angular">Ionic Angular</a> - An Angular+Ionic playground project.<br><br>
  
 
 Ionic can be used either by making an IONIC PROJECT using CLI or it can also be used as a CDN in a normal web project.
