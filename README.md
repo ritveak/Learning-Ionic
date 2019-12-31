@@ -9,5 +9,9 @@ The IONIC CDN allows us to use all the ionic components in our html file.
 Refer to <a href="Budget-Planner(without-angular)"> “Budget-Planner(without-angular)”</a> folder to see how fine CDN works and how responsive it is.
 You can play around the code to understand the IONIC COMPONENTS or you can refer to the official well maintained doc <a href="https://ionicframework.com/docs/components">here</a>.
 
+An instance for Ionic’s Cross Platform functionality can be seen in alert system.
+Open the <a href="Budget-Planner(without-angular)"> “Budget-Planner(without-angular)”</a> project in responsive mode and tap on "Add expense" without giving any input once in android simulation and once in Apple, and you will see, just a single command of IONIC takes care of both the implementations.
 
-The Doc contains all the tips, steps and troubleshooting that I went through while I was working on it.
+
+Ultimate resource is https://ionicframework.com/docs/ and the <a href="Doc.docx">Doc</a> that I uploaded contains all the tips, steps and troubleshooting that I went through while I was working on IONIC.
+
