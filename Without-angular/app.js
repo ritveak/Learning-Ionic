@@ -9,4 +9,4 @@ confirmBtn.addEventListener('click',()=>{
     list.innerHTML+=reasonInput.value+" <span float-right>"+amountInput.value+"</span><br>";
     console.log(parseInt(document.querySelector('#total').innerHTML));
     total.innerHTML=parseInt(total.innerHTML)+parseInt(amountInput.value);
-}); 
+});
