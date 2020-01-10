@@ -22,3 +22,5 @@ Open the <a href="Budget-Planner(without-angular)"> “Budget-Planner(without-an
 
 Ultimate resource is https://ionicframework.com/docs/ and the <a href="Doc.docx">Doc</a> that I uploaded contains all the tips, steps and troubleshooting that I went through while I was working on IONIC.
 
+(Understanding the code can be difficult so I'd recommend going through docs.)
+
